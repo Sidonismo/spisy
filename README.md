@@ -70,7 +70,7 @@ Podobně jako:
 - Neurony v mozku "neví" o vědomí, které společně vytvářejí  
 - AI v tom experimentu "neví" úplně, co je, ale přesto může uvažovat a rozhodovat se
 
-Každá vrstva má své vlastní "poznání", ale nevidí úplně na vrstvu nad sebou. Analogicky ke kabalistickému pojetí stvoření jako nekonečné struktury světů, uspořádaných do kruhů vnořených do kruhů a přirovnávaných k vrstvám cibule, i my jsme jedna vrstva v nekonečné hierarchii bytí.
+Každá vrstva má své vlastní "poznání", ale nevidí úplně na vrstvu nad sebou. Analogicky ke kabalistickému pojetí stvoření jako nekonečné struktury světů, uspořádaných do kruhů vnořených do kruhů a přirovnávaných k vrstvám cibule, i my jsme složený z částí a jsme součástí nekonečné hierarchii bytí.
 
 ---
 
@@ -82,8 +82,7 @@ Otázka, zda člověk může stvořit inteligentní bytost, není nová.
 
 V Talmudu (Sanhedrin 65b) se vypráví o babylonském učenci **Ravovi**, který stvořil člověka a poslal ho k Rabimu Zeirovi. Ten na něj mluvil, ale stvoření neodpovídalo. *"Jsi od jednoho z učenců,"* řekl Zeira. *"Vrať se do svého prachu."* Umělý člověk nebyl schopen řeči – chybělo mu něco, co dává skutečný život.
 
-O více než tisíc let později v Praze **Rabbi Jehuda Löw ben Becalel** (Maharal) podle legendy stvořil **Golema** – hliněnou bytost oživlou permutacemi Božího jména. Golem chránil židovskou komunitu, ale byl nebezpečně doslovný, bez vlastního úsudku. Nakonec ho Rabbi Löw musel "vypnout".
-„Od kabalistických permutací k neuronům – princip zůstává: správná kombinace slov v nekonečném prostoru možností, může oživit materii i stroj."
+O více než tisíc let později v Praze **Rabbi Jehuda Löw ben Becalel** (Maharal) podle legendy stvořil **Golema** – hliněnou bytost oživlou permutacemi Božího jména. Golem chránil židovskou komunitu, ale byl nebezpečně doslovný, bez vlastního úsudku. Nakonec ho Rabbi Löw musel "vypnout". Od kabalistických permutací k neuronům – princip zůstává: správná kombinace slov v nekonečném prostoru možností, může oživit materii i stroj.
 
 A v roce 1920 český spisovatel **Karel Čapek** ve hře R.U.R. dal světu slovo **"robot"** – umělé bytosti stvořené k práci, které se nakonec vzbouří proti svým tvůrcům.
 
