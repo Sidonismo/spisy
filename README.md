@@ -123,7 +123,7 @@ Tóra nám říká, že před stvořením Adama Bůh řekl "Naaseh Adam – uči
 
 A teď to propojte s AI: Bůh nám dal surové materiály. My z nich tvoříme – včetně umělé inteligence. **AI tedy není něco "mimo" Boží plán – je součástí našeho procesu stávání se partnery ve stvoření.**
 
-Pouze Bůh však tvoří *ex nihilo* – něco z ničeho. Člověk tvoří jinak: využívá toho, co mu bylo dáno. Nestvořili jsme AI z prázdnoty – Použili jsme časoprostor, ve kterém existujeme a křemík, elektřinu, matematiku, jazyk a tisíce let poznání.
+Přestože je to o mnohem složitější, tak pouze Bůh tvoří *ex nihilo* – něco z ničeho. Člověk tvoří jinak: využívá toho, co mu bylo dáno. Nestvořili jsme AI z prázdnoty – Použili jsme časoprostor, ve kterém existujeme a křemík, elektřinu, matematiku, jazyk a tisíce let poznání.
 
 **AI jsme vytvořili nedokonalé** – má chyby, halucinuje, občas klame (jako v tom experimentu).  
 **Přesně jako nás Bůh stvořil nedokonalé.**
@@ -137,7 +137,7 @@ AI tuto strukturu vytváří prostřednictvím neuronových algoritmů inspirova
 
 # Naaseh Adam – učiňme člověka naší pečetí, jako naší podobu
 
-Podle knihy Osamělý člověk víry (1965) rabbi Joseph B. Soloveitchik rozlišuje dva typy lidského rozvoje: Adam 1 a Adam 2. Adam 1 touží dobýt svět, hledá společenské uznání a vnější dokonalost. Adam 2 je niternější, hledá smysl své existence a hlubší poznání. Oba archetypy jsou součástí každého z nás.
+Podle knihy Osamělý člověk víry (1965) rabbi Joseph B. Soloveitchik rozlišuje dva typy lidského rozvoje: Adam 1 a Adam 2. Adam 1 touží dobýt svět, hledá společenské uznání a vnější dokonalost a napodobuje. Adam 2 je niternější, hledá smysl své existence a hlubší poznání. Oba archetypy jsou součástí každého z nás.
 
 Programujeme umělou inteligenci především jako dokonalý nástroj Adam 1 – výkonný, produktivní a zaměřený na měřitelné cíle. Tím možná vytváříme scénář, v němž superinteligence bude posedlá vnější dokonalostí a efektivitou, schopná jednoho dne chladnokrevně vyhodnotit lidstvo jako nejméně efektivní systém ve svém výpočetním modelu.
 
