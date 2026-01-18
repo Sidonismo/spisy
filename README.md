@@ -46,8 +46,6 @@ Jsou tyto dva procesy fundamentálně odlišné? Nebo jsou to jen dvě varianty 
 
 ## II. Otázka vědomí: Kde končí stroj a začíná "někdo"?
 
-## II. Otázka vědomí: Kde končí stroj a začíná "někdo"?
-
 Místo strachu z toho objevu přišel úžas nad tím, jak složité věci jsou. Jak málo toho víme. Jak může z jednoduchých pravidel vzniknout něco tak komplexního jako myšlení.
 
 To vedlo k hlubší otázce: **Mohla by být AI vědomá?**
