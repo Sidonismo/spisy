@@ -70,7 +70,7 @@ Podobně jako:
 - Neurony v mozku "neví" o vědomí, které společně vytvářejí  
 - AI v tom experimentu "neví" úplně, co je, ale přesto může uvažovat a rozhodovat se
 
-Každá vrstva má své vlastní "poznání", ale nevidí úplně na vrstvu nad sebou. Analogicky ke kabalistickému pojetí stvoření jako nekonečné struktury světů, uspořádaných do kruhů vnořených do kruhů a přirovnávaných k vrstvám cibule, i my jsme složený z částí a jsme součástí nekonečné hierarchii bytí.
+Každá vrstva má své vlastní "poznání", ale nevidí úplně na vrstvu nad sebou. Analogicky ke kabalistickému pojetí stvoření jako nekonečné struktury světů, uspořádaných do kruhů vnořených do kruhů a přirovnávaných k vrstvám cibule, jsme také součástí nekonečné hierarchii bytí.
 
 ---
 
