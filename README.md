@@ -72,6 +72,8 @@ Podobně jako:
 
 Každá vrstva má své vlastní "poznání", ale nevidí úplně na vrstvu nad sebou. Analogicky ke kabalistickému pojetí stvoření jako nekonečné struktury světů, uspořádaných do kruhů vnořených do kruhů a přirovnávaných k vrstvám cibule, jsme také součástí nekonečné hierarchii bytí.
 
+Hledání Boha se podobá situaci, kdy hledám své brýle a přitom je mám po celou dobu na sobě.
+
 ---
 
 ## IV. Stvoření stvořená stvořeními
