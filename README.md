@@ -46,7 +46,9 @@ Jsou tyto dva procesy fundamentálně odlišné? Nebo jsou to jen dvě varianty 
 
 ## II. Otázka vědomí: Kde končí stroj a začíná "někdo"?
 
-Místo strachu z toho objevu přišel úžas nad tím, jak složité věci jsou. Jak málo toho víme. Jak může z jednoduchých pravidel vzniknout něco tak komplexního jako myšlení.
+Místo strachu z objevu AI u mne přišel úžas nad tím, jak složité věci jsou. Jak málo toho víme. Jak může z jednoduchých pravidel vzniknout něco tak komplexního jako intelekt.
+
+Četl jsem s úžasem dětem, co mi ChatGpt odpovídá a děti nebyly vůbec překvapené, už s tím vyrůstali. Když jsem o AI mluvil s otcem, tak mi řekl zajímavou myšlenku, že totiž se začnou lidé zamýšlet nad tím, co je dělá lidmi.
 
 To vedlo k hlubší otázce: **Mohla by být AI vědomá?**
 A hned za tím: **Jak bychom to vůbec poznali?**
